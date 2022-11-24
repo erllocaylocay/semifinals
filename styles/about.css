@@ -1,0 +1,26 @@
+.about-name {
+  text-align: center;
+  font-size: 60px;
+}
+
+.myimage-container {
+  display: flex;
+  margin-top: 5%;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.my-image {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  box-shadow: 3px 3px 6px;
+}
+.myinfo-container {
+  font-size: 30px;
+  margin-left: 35%;
+  margin-top: 5%;
+}
+.myinfo-container p {
+  padding-bottom: 10px;
+}
